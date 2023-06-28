@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrina Rossada</h1>
 <h3 align="center">A student at Kalimantan Institute of Technology majoring in Informatics Engineering.</h3>
 
-- 🌱 Interested **Machine learning**
+- 🌱 Interested **Machine Learning**
 
 - 💌 **amrina0612@gmail.com**
 
