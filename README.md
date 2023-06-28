@@ -1,4 +1,4 @@
-![image](https://github.com/amrinaaa/amrinaaa/assets/123223063/a3363abe-3614-4faf-9e15-76ca5d9ffb65)<h1 align="center">Hi 👋, I'm Amrina Rossada</h1>
+<h1>Hi 👋, I'm Amrina Rossada</h1>
 <h3 align="center">A student at Kalimantan Institute of Technology majoring in Informatics Engineering.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 - 🌱 Interested **Machine Learning**
