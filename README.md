@@ -3,7 +3,7 @@
 
 - 🌱 Interested **Machine learning**
 
-- I **amrina0612@gmail.com**
+- 💌 **amrina0612@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
