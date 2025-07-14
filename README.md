@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://amry.github.io/tic-tac-toe/" target="_blank">
-    <img src="https://github.com/amry/tic-tac-toe/raw/main/preview.gif" alt="Game Preview" width="500"/>
+    <img src="https://github.com/amrinaaa/ttt/raw/main/preview.gif" alt="Game Preview" width="500"/>
   </a>
 </p>
 
