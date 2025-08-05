@@ -1,6 +1,6 @@
 <h1>@amry</h1>
 <h3 align="center">Kalimantan Institute of Technology, Informatics</h3>
-<img align="right" alt="coding" width="500" src="https://i.gifer.com/YAS0.gif">
+<img align="right" alt="coding" width="200" src="https://i.gifer.com/YAS0.gif">
 
 💌 amrina0612@gmail.com
 
