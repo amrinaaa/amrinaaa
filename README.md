@@ -1,8 +1,10 @@
 <h1>@amry</h1>
 <h3 align="center">Kalimantan Institute of Technology, Informatics</h3>
+
+<img align="right" alt="pain akatsuki" width="200" src="https://i.gifer.com/4HUx.gif" style="margin-top: 30px; margin-bottom: -60px;">
 <img align="right" alt="coding" width="300" src="https://i.gifer.com/YAS0.gif">
 
-💌 amrina0612@gmail.com
+💌 [amrina0612@gmail.com](mailto:amrina0612@gmail.com)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
